@@ -1,5 +1,6 @@
+import { NavigationContainer } from '@react-navigation/native';
 import registerRootComponent from 'expo/build/launch/registerRootComponent';
 
-import App from './App';
+import Routes from './routes';
 
-registerRootComponent(App);
+registerRootComponent(Routes);
