@@ -1,14 +1,14 @@
 {
   "expo": {
-    "name": "ifood",
-    "slug": "ifood",
+    "name": "my-project",
+    "slug": "my-project",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
-      "backgroundColor": "#F0001A"
+      "backgroundColor": "#f0001A"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
